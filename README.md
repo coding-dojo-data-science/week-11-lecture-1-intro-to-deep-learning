@@ -1,2 +1,3 @@
-# week-11-lecture-1-intro-to-deep-learning
+Intro to Deep Learning
  
+Materials related to the Week 11, Lecture 1 lecture on Deep Learning
